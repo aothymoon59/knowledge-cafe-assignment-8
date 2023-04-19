@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Props vs state",
+    "answer": "Props is a read only property.Props is one type of object.Data can be sent from one component to another component by props.Props are immutable so we cannot modify the props from inside the component.The state is an updatable structure that is used to contain data or information about the component.The state in a component can change over time",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--xKWyj8SG--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/http://live-linguine-code.pantheonsite.io/wp-content/uploads/2019/03/react-state-vs-props.jpg"
+  },
+  {
+    "question": "How does useState work?",
+    "answer": "useState() is a React hook.useState() give us 2 values.We can store this value by called a variable.One is state variable.Other is a state setter function which can update the state variable",
+    "img": "https://images.unsplash.com/photo-1591267990439-bc68529677c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmVhY3QlMjBob29rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "question": "Purpose of useEffect other than fetching data.",
+    "answer": "useEffect() is a React hook.The callback function we pass to the useEffect hook runs the side effects.SideEffect will work on every render.We can control it using the dependency array argument we pass to the useEffect hook.",
+    "img": "https://images.unsplash.com/photo-1591267990532-e5bdb1b0ceb8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVhY3QlMjBob29rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "question": "How Does React work?",
+    "answer": "React JS is a JavaScript-based UI development library.React JS comprises a collection of reusable JavaScript code snippets.It is a component-based, open-source front-end library that is in charge of the application's view layer. While it creates basic views for every state in the project, when the data changes.",
+    "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVhY3QlMjBqc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6425ad48d733e7f4f9b8584c",
+    "title": "How to get your first job as a self-taught programmer",
+    "picture": "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Scott Fletcher",
+    "cover_url": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "date": "Mar 28",
+    "days_ago": 6,
+    "min_read": "08",
+    "hashTag1": "beginners",
+    "hashTag2": "programming"
+  },
+  {
+    "id": "6425ad48621c233c63402dec",
+    "title": "Mastering the Art of Video Editing: Tips and Techniques",
+    "picture": "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Sofia Morales",
+    "cover_url": "https://plus.unsplash.com/premium_photo-1678453147886-3ea4eb762e8d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "date": "Mar 30",
+    "days_ago": 4,
+    "min_read": "10",
+    "hashTag1": "video",
+    "hashTag2": "editing"
+  },
+  {
+    "id": "6425ad488a32256511a7b990",
+    "title": "The Ultimate Guide to Android App Development: Tips and Tricks for Success",
+    "picture": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Rosemarie Luna",
+    "cover_url": "https://plus.unsplash.com/premium_photo-1661662835250-7c7f20432351?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHRlY2hub2xvZ3l8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "date": "Apr 01",
+    "days_ago": 2,
+    "min_read": "07",
+    "hashTag1": "beginners",
+    "hashTag2": "android"
+  },
+  {
+    "id": "6425ad48295012873d29ff4e",
+    "title": "Are artificial intelligence and machine learning the same?",
+    "picture": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Summer Herring",
+    "cover_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHRlY2hub2xvZ3l8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "date": "Apr 02",
+    "days_ago": 1,
+    "min_read": 12,
+    "hashTag1": "ai",
+    "hashTag2": "technology"
+  }
+]
